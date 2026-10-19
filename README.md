@@ -1,28 +1,32 @@
-# Supreme Fitness Gym App
+## Technologies Used
 
-A group project developed to support gym management and fitness-related activities.
+### Frontend
+- React
+- Vite
+- JavaScript (ES Modules)
+- React Router
+- Material UI (MUI)
+- Axios
+- Chart.js
+- Stripe integration libraries
+- Tailwind CSS with Vite plugin
+
+### Backend
+- Backend technologies will be documented after reviewing the backend configuration.
 
 ## Project Structure
 
-- `frontend/` — Frontend application
+- `frontend/` — React frontend application built with Vite
 - `backend/` — Backend application and API
-
-## Technologies Used
-
-*To be updated based on the technologies used in the project.*
 
 ## Getting Started
 
-The frontend and backend setup instructions will be added here.
+Setup instructions for the frontend and backend will be documented after verifying the project configuration.
 
 ## Project Status
 
-Developed as part of a group project.
+Group project developed as part of Software Engineering studies.
 
 ## Author
 
 Kavidi Shehani
-
-## Note
-
-This repository contains the frontend and backend components of the Supreme Fitness Gym App.
